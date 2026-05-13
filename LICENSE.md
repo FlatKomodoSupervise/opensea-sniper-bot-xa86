@@ -1,4 +1,4 @@
-# 
+# updated opensea sniper bot | whitelist-bypass + volume-analysis is the best opensea sniper bot, featuring whitelist-bypass and volume-analysis. Fast, smart, and optimized for NFT
 
 
 
